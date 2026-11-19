@@ -15,3 +15,5 @@ Export/
 *.map
 *.hex
 *.elf
+*.svd
+*_timing.html
