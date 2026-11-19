@@ -1,0 +1,17 @@
+# PSoC Creator auto-generated & build files
+Generated_Source/
+codegentemp/
+CortexM0/
+CortexM0p/
+CortexM3/
+Export/
+*.cywrk.*
+*.cyprj.*
+*.cycdx
+*.cyfit
+*.rpt
+*.log
+*.lst
+*.map
+*.hex
+*.elf
